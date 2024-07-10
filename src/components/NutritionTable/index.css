@@ -1,0 +1,32 @@
+.dailyValue {
+    display: flex;
+    justify-content: end;
+}
+
+.servingContainer {
+    display: flex;
+    justify-content: space-between;
+}
+.amountContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.percentageContainer {
+    display: flex;
+    justify-content: end;
+}
+
+.caloriesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 2rem;
+}
+
+
+.nutritionContainer {
+    padding: 5px;
+}
